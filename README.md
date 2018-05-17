@@ -1,2 +1,3 @@
 # Hello_world
-It is tangential's first repository
+##It is Jihong Tang's first repository
+##It is Jihong Tang's first time to commit a change.
